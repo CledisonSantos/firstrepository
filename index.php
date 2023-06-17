@@ -1,5 +1,5 @@
 <?php 
 
-echo "meu primeiro repositorio";
+echo "meu primeiro repositorio para estudo";
 
 ?>
